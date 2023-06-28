@@ -86,7 +86,5 @@
 	<a href="https://github.com/mr-vance"><img src="https://img.icons8.com/bubbles/50/000000/github.png" alt="GitHub"/></a>
 	<a href="https://linkedin.com/in/vance-muchongo"><img src="https://img.icons8.com/bubbles/50/000000/linkedin.png" alt="LinkedIn"/></a>
 	<a href="https://www.instagram.com/snr_vance/"><img src="https://img.icons8.com/bubbles/50/000000/instagram.png" alt="Instagram"/></a>
-	<a style="margin-left: 10px;" target="_blank" href="https://twitter.com/br_vance">
-	<img src="https://img.icons8.com/doodle/1x/twitter-squared--v2.png" ></a>
 	
 </p>
