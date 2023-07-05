@@ -66,7 +66,7 @@
 
 - 👨‍💻 I’m currently a Software Engineer student at <a href="https://www.alxafrica.com/" target="blank">ALX</a> part time.
 
-- 🏁 I’m currently participating in a High Performance Computing competition.
+- 🏁 I’m currently participating in a <a href="https://events.chpc.ac.za/event/122/overview" target="blank">High Performance Computing competition</a>.
 
 - 🌱 I’m currently learning Full Stack Web Development with Django.
 -  👨‍💻 I’m currently participating in the <a href="https://lablab.ai/event/google-vertex-ai-hackathon" target="blank">Google Vertex AI Hackathon</a> ending on the 10th of July 2023
