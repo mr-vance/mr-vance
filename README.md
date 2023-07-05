@@ -62,13 +62,15 @@
 
 <h1 align="center"><img src="https://fonts.gstatic.com/s/e/notoemoji/latest/1f98b/512.gif" width="30" height="30" style="margin-right: 10px;">the state on me</h1>
 
-- 🎓 I’m currently doing my final year of BSc Computer Science at <a href="https://www.wits.ac.za/" target="blank">Wits University</a>
+- 🎓 I’m currently enrolled in a software development internship at <a href="https://tshimologong.joburg" target="blank">Tshimologong Precinct</a>
 
 - 👨‍💻 I’m currently a Software Engineer student at <a href="https://www.alxafrica.com/" target="blank">ALX</a> part time.
 
 - 🏁 I’m currently participating in a High Performance Computing competition.
 
 - 🌱 I’m currently learning Full Stack Web Development with Django.
+-  👨‍💻 I’m currently participating in the <a href="https://lablab.ai/event/google-vertex-ai-hackathon" target="blank">Google Vertex AI Hackathon</a> ending on the 10th of July 2023
+
 
 
 
@@ -84,7 +86,7 @@
   <a href="https://vance-muchongo.web.app/"><img src="https://img.icons8.com/bubbles/50/000000/web.png" alt="Website"/></a>
 	<a href="mailto:muchongo.vance@gmail.com"><img src="https://img.icons8.com/bubbles/50/000000/gmail.png" alt="Gmail"/></a>
 	<a href="https://github.com/mr-vance"><img src="https://img.icons8.com/bubbles/50/000000/github.png" alt="GitHub"/></a>
-	<a href="https://linkedin.com/in/vance-muchongo"><img src="https://img.icons8.com/bubbles/50/000000/linkedin.png" alt="LinkedIn"/></a>
+	<a href="#"><img src="https://img.icons8.com/bubbles/50/000000/linkedin.png" alt="LinkedIn"/></a>
 	<a href="https://www.instagram.com/snr_vance/"><img src="https://img.icons8.com/bubbles/50/000000/instagram.png" alt="Instagram"/></a>
 	
 </p>
