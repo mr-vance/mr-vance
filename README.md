@@ -57,9 +57,7 @@
 
 <h1 align="center"><img src="https://fonts.gstatic.com/s/e/notoemoji/latest/1f98b/512.gif" width="30" height="30" style="margin-right: 10px;">The state on me</h1>
 
-- 🎓 I’m currently enrolled in a software development internship at <a href="https://tshimologong.joburg" target="blank">Tshimologong Precinct</a>
-
-- 👨‍💻 I’m currently a Software Engineer student at <a href="https://www.alxafrica.com/" target="blank">ALX</a>
+Nothing much going on atm. College is grinding my butt tbh.
 
 
 
