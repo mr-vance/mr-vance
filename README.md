@@ -57,7 +57,7 @@
 
 <h1 align="center"><img src="https://fonts.gstatic.com/s/e/notoemoji/latest/1f98b/512.gif" width="30" height="30" style="margin-right: 10px;">The state on me</h1>
 
-Nothing much going on atm. College is grinding my butt tbh.
+Nothing much going on atm.
 
 
 
