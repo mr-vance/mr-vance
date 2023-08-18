@@ -7,12 +7,6 @@
  
 </p>
 
-
-		
-	
-
-
-
 <p align="center"><img src="https://readme-typing-svg.demolab.com?font=Century+Gothic&weight=700&size=27&duration=2500&pause=1000&color=3F4AD4&center=true&vCenter=true&width=435&lines=Hi%2C+I'm+Vance+Muchongo+%F0%9F%91%8B;I+build+software+for+fun+%F0%9F%92%99" alt="candida18"  /></p>
 
 <!--horizontal divider-->
