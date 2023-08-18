@@ -1,9 +1,15 @@
 <h1 align="center"><img src="https://fonts.gstatic.com/s/e/notoemoji/latest/1f913/512.gif" width="30" height="30" style="margin-right: 10px;">A brief intro of me</h1>
 
-<figure align="center">
+<p align="center">
 <a target="_blank" href="https://www.freepik.com/free-vector/cute-astronaut-holding-coffee-cup-cartoon-illustration-science-food-drink-icon-concept-flat-cartoon-style_10479412.htm#query=astronaut%20coffee&position=4&from_view=keyword&track=ais"><img src="profile-picture/astronautCoffee.png" width="200" height="200"></a>
-<figcaption align="center">Image by catalyststuff on Freepik</figcaption>
-</figure>
+	<p align="center">Image by <a target="_blank" href="https://codepen.io"><a target="_blank" href="https://www.freepik.com/author/catalyststuff">catalyststuff</a> on Freepik</p>
+	
+ 
+</p>
+
+
+		
+	
 
 
 
