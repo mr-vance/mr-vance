@@ -1,7 +1,7 @@
 <h1 align="center"><img src="https://fonts.gstatic.com/s/e/notoemoji/latest/1f913/512.gif" width="30" height="30" style="margin-right: 10px;">A brief intro of me</h1>
 
 <p align="center">
-<img src="https://media.tenor.com/mKMXJtjSv7YAAAAi/peachcat-new.gif">
+<img src="profile-picture/astronautCoffee.png" width="200" height="200">
 </p>
 
 
