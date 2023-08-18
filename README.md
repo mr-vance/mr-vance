@@ -1,9 +1,9 @@
 <h1 align="center"><img src="https://fonts.gstatic.com/s/e/notoemoji/latest/1f913/512.gif" width="30" height="30" style="margin-right: 10px;">A brief intro of me</h1>
 
 <p align="center">
-<img src="profile-picture/astronautCoffee.png" width="200" height="200">
+<a target="_blank" href="https://www.freepik.com/free-vector/cute-astronaut-holding-coffee-cup-cartoon-illustration-science-food-drink-icon-concept-flat-cartoon-style_10479412.htm#query=astronaut%20coffee&position=4&from_view=keyword&track=ais"><img src="profile-picture/astronautCoffee.png" width="200" height="200"></a>
+<figcaption align="center"><a href="https://www.freepik.com/free-vector/cute-astronaut-holding-coffee-cup-cartoon-illustration-science-food-drink-icon-concept-flat-cartoon-style_10479412.htm#query=astronaut%20coffee&position=4&from_view=keyword&track=ais">Image by catalyststuff</a> on Freepik</figcaption>
 </p>
-
 
 <p align="center"><img src="https://readme-typing-svg.demolab.com?font=Century+Gothic&weight=700&size=27&duration=2500&pause=1000&color=3F4AD4&center=true&vCenter=true&width=435&lines=Hi%2C+I'm+Vance+Muchongo+%F0%9F%91%8B;I+build+software+for+fun+%F0%9F%92%99" alt="candida18"  /></p>
 
