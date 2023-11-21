@@ -58,15 +58,12 @@
 
 
 <h1 align="center"><img src="https://fonts.gstatic.com/s/e/notoemoji/latest/1f98b/512.gif" width="30" height="30" style="margin-right: 10px;">The state on me</h1>
-<ol>
+
+<ol align="center">
 	<li>Third month into the ALX Software Engineering Program</li>
 	<li>Working on <a href="https://github.com/mr-vance/ideateConsulting">ideateConsulting</a> website</li>
 	<li>Learning Ruby on Rails for full stack apps</li>
 </ol>
-
-
-
-
 
 
 <!--horizontal divider-->
