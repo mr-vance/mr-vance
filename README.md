@@ -57,10 +57,6 @@
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 
 
-<h1 align="center"><img src="https://fonts.gstatic.com/s/e/notoemoji/latest/1f98b/512.gif" width="30" height="30" style="margin-right: 10px;">The state on me</h1>
-
-
-
 <!--horizontal divider-->
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 
