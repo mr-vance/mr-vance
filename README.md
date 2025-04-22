@@ -12,40 +12,22 @@
 <!--horizontal divider-->
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 
-<h1 align="center"><img src="https://fonts.gstatic.com/s/e/notoemoji/latest/1f680/512.gif" width="30" height="30" style="margin-right: 10px;">My github stats</h1>
+<h1><img src="https://fonts.gstatic.com/s/e/notoemoji/latest/1f680/512.gif" width="30" height="30" style="margin-right: 10px;">Stats</h1>
 
   
 
  <h3>Languages</h3>
-            <p align="center">
+        <p >
         <a href="https://github.com/mr-vance/">
           <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=mr-vance&langs_count=6&theme=transparent&layout=compact&hide_border=true"
           alt="mr-vance :: overall Top Langs " /></a>
       </p>
-        <p align="center">
-          <a href="https://github.com/mr-vance/">
-          <img width="45%" src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=mr-vance&theme=transparent&layout=compact&hide_border=true"
-          alt="mr-vance :: Top Langs by repo" />
-          <img width="45%" src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=mr-vance&theme=transparent&layout=compact&hide_border=true"
-          alt="mr-vance :: Top Langs by commit" />
-          </a>
-        </p>
-
-<h3>Numbers</h3>
-        <p align="center">
-          <a href="https://github.com/mr-vance/">
-          <img width="49.5%" src="https://github-readme-stats.vercel.app/api?username=mr-vance&show_icons=true&theme=transparent&hide_border=true" />
-          <img width="49.5%" src="https://github-readme-streak-stats.herokuapp.com/?user=mr-vance&theme=transparent&hide_border=true" />
-          </a>
-       </p>
-
-     
 
 <!--horizontal divider-->
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 
 
-<h1 align="center"><img src="https://fonts.gstatic.com/s/e/notoemoji/latest/1f3bb/512.gif" width="30" height="30" style="margin-right: 10px;">My instruments</h1>
+<h1><img src="https://fonts.gstatic.com/s/e/notoemoji/latest/1f3bb/512.gif" width="30" height="30" style="margin-right: 10px;">Tools</h1>
 
 <!--tech stack icons-->
 <p align="center">
@@ -56,18 +38,3 @@
 <!--horizontal divider-->
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 
-
-<!--horizontal divider-->
-<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
-
-
-<h1 align="center"><img src="https://fonts.gstatic.com/s/e/notoemoji/latest/1f48c/512.gif" width="30" height="30" style="margin-right: 10px;">Find me at...</h1>
-
-<p align="center">
-  <a href="https://vance-muchongo.web.app"><img src="https://img.icons8.com/bubbles/50/000000/web.png" alt="Website"/></a>
-	<a href="#"><img src="https://img.icons8.com/bubbles/50/000000/gmail.png" alt="Gmail"/></a>
-	<a href="#"><img src="https://img.icons8.com/bubbles/50/000000/github.png" alt="GitHub"/></a>
-	<a href="#"><img src="https://img.icons8.com/bubbles/50/000000/linkedin.png" alt="LinkedIn"/></a>
-	<a href="#"><img src="https://img.icons8.com/bubbles/50/000000/instagram.png" alt="Instagram"/></a>
-	
-</p>
