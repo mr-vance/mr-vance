@@ -6,9 +6,6 @@
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=mr-vance&layout=compact&theme=transparent)
 
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=mr-vance&show_icons=true&theme=transparent)
-
-
 <h1><img src="https://fonts.gstatic.com/s/e/notoemoji/latest/1f3bb/512.gif" width="30" height="30" style="margin-right: 10px;">Tools</h1>
 
 <!--tech stack icons-->
