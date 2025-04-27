@@ -2,11 +2,11 @@
 
 ---
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=mr-vance&layout=compact&theme=transparent)
+![Top langs](https://github-readme-stats.vercel.app/api/top-langs/?username=mr-vance&layout=donut-vertical&theme=transparent&langs_count=10)
 
 ---
 <!--tech stack icons-->
-  <a href="https://skillicons.dev">
+  <a href="#">
     <img src="https://skillicons.dev/icons?i=git,bootstrap,c,cpp,css,discord,figma,firebase,github,html,css,java,js,kotlin,linux,md,mysql,androidstudio,bash,vim,nodejs,py,cs,react,vscode,php,visualstudio,latex&perline=14" />
   </a>
 
