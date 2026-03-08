@@ -2,7 +2,7 @@ name: Update GitHub Stats
 
 on:
   schedule:
-    - cron: "0 */6 * * *"   # every 6 hours
+    - cron: "0 */6 * * *"   # runs every 6 hours
   workflow_dispatch:
 
 permissions:
@@ -16,7 +16,7 @@ jobs:
       - name: Checkout repository
         uses: actions/checkout@v4
 
-      - name: Ensure assets folder exists
+      - name: Ensure assets directory exists
         run: mkdir -p assets
 
       - name: Download Top Languages SVG
@@ -24,12 +24,16 @@ jobs:
           curl -L \
             -H "User-Agent: github-actions" \
             -H "Accept: image/svg+xml" \
-            "https://github-readme-stats.vercel.app/api/top-langs/?username=mr-vance&layout=donut-vertical&theme=transparent&langs_count=10" \
+            "https://github-readme-stats.vercel.app/api/top-langs/?username=mr-vance&layout=donut-vertical&theme=transparent&langs_count=10&cache_seconds=86400" \
             -o assets/top-langs.svg
 
-          # Validate that the response is actually an SVG
+          echo "Downloaded file size:"
+          wc -c assets/top-langs.svg
+
+          # Validate SVG before committing
           if ! grep -q "<svg" assets/top-langs.svg; then
             echo "Stats API returned invalid file"
+            cat assets/top-langs.svg
             exit 1
           fi
 
@@ -37,6 +41,9 @@ jobs:
         run: |
           git config --global user.name "github-actions"
           git config --global user.email "actions@github.com"
+
           git add assets/top-langs.svg
-          git commit -m "Update top languages stats" || echo "No changes to commit"
+
+          git commit -m "Update GitHub top languages stats" || echo "No changes to commit"
+
           git push
