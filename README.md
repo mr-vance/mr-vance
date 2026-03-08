@@ -2,7 +2,7 @@
 
 ---
 
-![Top langs](https://github-readme-stats.vercel.app/api/top-langs/?username=mr-vance&layout=donut-vertical&theme=transparent&langs_count=10)
+![Top Languages](assets/top-langs.svg)
 
 ---
 <!--tech stack icons-->
