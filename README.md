@@ -2,7 +2,6 @@
 
 ---
 
----
 <!--tech stack icons-->
   <a href="#">
     <img src="https://skillicons.dev/icons?i=git,bootstrap,c,cpp,css,discord,figma,firebase,github,html,css,java,js,kotlin,linux,md,mysql,androidstudio,bash,vim,nodejs,py,cs,react,vscode,php,visualstudio,latex&perline=14" />
