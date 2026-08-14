@@ -2,8 +2,6 @@
 
 ---
 
-[![GitHub Streak](https://streak-stats.demolab.com?user=mr-vance&theme=dark)](https://git.io/streak-stats)
-
 ---
 <!--tech stack icons-->
   <a href="#">
